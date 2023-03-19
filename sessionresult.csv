@@ -1,0 +1,6 @@
+movie_id,title,industry,release_year,imdb_rating,studio,language_id
+127,"Pather Panchali",Bollywood,1955,8.3,"Government of West Bengal",7
+128,"Taare Zameen Par",Bollywood,2007,8.3,,1
+106,Sholay,Bollywood,1975,8.1,"United Producers",1
+136,"Bajrangi Bhaijaan",Bollywood,2015,8.1,"Salman Khan Films",1
+129,"Munna Bhai M.B.B.S.",Bollywood,2003,8.1,"Vinod Chopra Productions",1
